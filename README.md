@@ -26,13 +26,15 @@ https://rest-api-express-mongo-atlas.herokuapp.com/subscribers/unique_id
     "name":"new_user_name"
 }
 ```
-##### or
+#####
+or
 ```
 {
     "subscribedToChannel":"new_channel_name"
 }
 ```
-##### or
+#####
+or
 ```
 {
     "name":"new_user_name",
