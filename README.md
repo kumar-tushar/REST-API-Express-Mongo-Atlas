@@ -23,7 +23,7 @@ https://rest-api-express-mongo-atlas.herokuapp.com/subscribers
 https://rest-api-express-mongo-atlas.herokuapp.com/subscribers/unique_id
 ```
 {
-    "name":"new_name"
+    "name":"new_user_name"
 }
 ```
 ##### or
